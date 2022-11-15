@@ -1,0 +1,73 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Pieces detaches Yar 87",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75,
+    "Items": [
+        {
+            "ClassName": "YAR_87_Doors_Driver_rust",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+              "YAR_87_Doors_Driver_kamo2"
+            ]
+          },
+          {
+            "ClassName": "YAR_87_Doors_coDriver_rust",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+              "YAR_87_Doors_coDriver_kamo2"
+            ]
+          },
+          {
+            "ClassName": "YAR_87_Doors_hood_rust",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+              "YAR_87_Doors_hood_kamo2"
+            ]
+          },
+          {
+            "ClassName": "YAR_87_Doors_trunk_rust",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+              "YAR_87_Doors_trunk_kamo2"
+            ]
+          },
+          {
+            "ClassName": "YAR_87_Wheel",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+          }
+      ]
+    }

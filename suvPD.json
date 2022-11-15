@@ -1,0 +1,105 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Pieces detaches SUV",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75,
+    "Items": [
+        {
+            "ClassName": "SUV_Doors_Driver",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+              "SUV_Doors_Driver_white",
+              "SUV_Doors_Driver_kamo"
+            ]
+          },
+          {
+            "ClassName": "SUV_Doors_coDriver",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+              "SUV_Doors_coDriver_white",
+              "SUV_Doors_coDriver_kamo"
+            ]
+          },
+          {
+            "ClassName": "SUV_Doors_cargo1",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+              "SUV_Doors_cargo1_white",
+              "SUV_Doors_cargo1_kamo"
+            ]
+          },
+          {
+            "ClassName": "SUV_Doors_cargo2",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+              "SUV_Doors_cargo2_white",
+              "SUV_Doors_cargo2_kamo"
+            ]
+          },
+          {
+            "ClassName": "SUV_Doors_hood",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+              "SUV_Doors_hood_white",
+              "SUV_Doors_hood_kamo"
+            ]
+          },
+          {
+            "ClassName": "SUV_Doors_trunk",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+              "SUV_Doors_trunk_white",
+              "SUV_Doors_trunk_kamo"
+            ]
+          },
+          {
+            "ClassName": "SUV_Wheel",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+          }
+      ]
+    }

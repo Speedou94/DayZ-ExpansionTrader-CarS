@@ -1,0 +1,26 @@
+{
+    "m_Version": 10,
+    "DisplayName": "Trader Voiture",
+    "MinRequiredReputation": -2147483648,
+    "MaxRequiredReputation": 2147483647,
+    "TraderIcon": "Car",
+    "Currencies": [
+        "expansionBanknoteEuro",
+        "euro100",
+        "euro50",
+        "euro20",
+        "euro10",
+        "euro5",
+        "euro"
+    ],
+    "Categories": [
+        "parking",
+        "Exchange",
+        "Cars",
+        "Batteries:",
+        "Vehicle_Parts:3"
+    ],
+    "Items": {
+        "Vehicle_Parts": 3
+    }
+}

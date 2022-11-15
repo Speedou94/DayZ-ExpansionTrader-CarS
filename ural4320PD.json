@@ -1,0 +1,122 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Pieces detaches Ural 4320",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75,
+    "Items": [
+        {
+            "ClassName": "URAL_4320_Doors_Driver_rust",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+              "URAL_4320_Doors_Driver_kamo",
+              "URAL_4320_Doors_Driver_yellow"
+            ]
+          },
+          {
+            "ClassName": "URAL_4320_Doors_coDriver_rust",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+              "URAL_4320_Doors_coDriver_kamo",
+              "URAL_4320_Doors_coDriver_yellow"
+            ]
+          },
+          {
+            "ClassName": "URAL_4320_Doors_hood_rust",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+              "URAL_4320_Doors_hood_kamo",
+              "URAL_4320_Doors_hood_yellow"
+            ]
+          },
+          {
+            "ClassName": "URAL_4320_Doors_cargo1_rust",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+              "URAL_4320_Doors_cargo1_kamo",
+              "URAL_4320_Doors_cargo1_yellow"
+            ]
+          },
+          {
+            "ClassName": "URAL_4320_Doors_cargo2_rust",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+              "URAL_4320_Doors_cargo2_kamo",
+              "URAL_4320_Doors_cargo2_yellow"
+            ]
+          },
+          {
+            "ClassName": "URAL_4320_Doors_cargo3_rust",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+              "URAL_4320_Doors_cargo3_kamo",
+              "URAL_4320_Doors_cargo3_yellow"
+            ]
+          },
+          {
+            "ClassName": "URAL_4320_Doors_cargo4_rust",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+              "URAL_4320_Doors_cargo4_kamo",
+              "URAL_4320_Doors_cargo4_yellow"
+            ]
+          },
+          {
+            "ClassName": "URAL_4320_flag_rust",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+              "URAL_4320_flag_kamo",
+              "URAL_4320_flag_yellow"
+            ]
+          }
+      ]
+    }

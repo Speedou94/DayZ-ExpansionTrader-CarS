@@ -1,0 +1,77 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Pieces detaches Ford Mustang",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75,
+    "Items": [
+        {
+            "ClassName": "MUSTANG_Doors_Driver",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+              "MUSTANG_Doors_Driver_red",
+              "MUSTANG_Doors_Driver_rust"
+            ]
+          },
+          {
+            "ClassName": "MUSTANG_Doors_coDriver",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+              "MUSTANG_Doors_coDriver_red",
+              "MUSTANG_Doors_coDriver_rust"
+            ]
+          },
+          {
+            "ClassName": "MUSTANG_Doors_hood",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+              "MUSTANG_Doors_hood_red",
+              "MUSTANG_Doors_hood_rust"
+            ]
+          },
+          {
+            "ClassName": "MUSTANG_Doors_trunk",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+              "MUSTANG_Doors_trunk_red",
+              "MUSTANG_Doors_trunk_rust"
+            ]
+          },
+          {
+            "ClassName": "MUSTANG_Wheel",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+          }
+      ]
+    }

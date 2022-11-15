@@ -1,0 +1,80 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Pieces detaches Fennek",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75,
+    "Items": [
+        {
+            "ClassName": "Fennek_Doors_Driver_BIOHAZARD",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+              "Fennek_Doors_Driver_RUST",
+              "Fennek_Doors_Driver_WINTER"
+            ]
+          },
+          {
+            "ClassName": "Fennek_Doors_coDriver_BIOHAZARD",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+              "Fennek_Doors_coDriver_RUST",
+              "Fennek_Doors_coDriver_WINTER"
+            ]
+          },
+          {
+            "ClassName": "Fennek_Doors_hood_BIOHAZARD",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+              "Fennek_Doors_hood_RUST",
+              "Fennek_Doors_hood_WINTER"
+            ]
+          },
+          {
+            "ClassName": "Fennek_Doors_trunk_BIOHAZARD",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+              "Fennek_Doors_trunk_RUST",
+              "Fennek_Doors_trunk_WINTER"
+            ]
+          },
+          {
+            "ClassName": "Fennek_Wheel_BIOHAZARD",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+              "Fennek_Wheel_RUST",
+              "Fennek_Wheel_WINTER"
+            ]
+          }
+      ]
+    }

@@ -1,0 +1,91 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Pieces detaches BMW X5",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75,
+    "Items": [
+        {
+            "ClassName": "BMW_X5_Doors_Driver_black",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "BMW_X5_Doors_Driver_white",
+                "BMW_X5_Doors_Driver_red"
+            ]
+          },
+          {
+            "ClassName": "BMW_X5_Doors_coDriver_black",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "BMW_X5_Doors_coDriver_white",
+                "BMW_X5_Doors_coDriver_red"
+            ]
+          },
+          {
+            "ClassName": "BMW_X5_Doors_cargo1_black",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "BMW_X5_Doors_cargo1_white",
+                "BMW_X5_Doors_cargo1_red"
+            ]
+          },
+          {
+            "ClassName": "BMW_X5_Doors_cargo2_black",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "BMW_X5_Doors_cargo2_white",
+                "BMW_X5_Doors_cargo2_red"
+            ]
+          },
+          {
+            "ClassName": "BMW_X5_Doors_hood_black",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "BMW_X5_Doors_hood_white",
+                "BMW_X5_Doors_hood_red"
+            ]
+          },
+          {
+            "ClassName": "BMW_X5_Wheel",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+          }
+      ]
+    }

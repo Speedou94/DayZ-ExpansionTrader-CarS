@@ -1,0 +1,51 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Pieces detaches Interceptor",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75,
+    "Items": [
+        {
+            "ClassName": "Interceptor_Doors_Driver",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+              "Interceptor_Doors_Driver_blue",
+              "Interceptor_Doors_Driver_red",
+              "Interceptor_Doors_Driver_yellow"
+            ]
+          },
+          {
+            "ClassName": "Interceptor_Doors_coDriver",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+              "Interceptor_Doors_coDriver_blue",
+              "Interceptor_Doors_coDriver_red",
+              "Interceptor_Doors_coDriver_yellow"
+            ]
+          },
+          {
+            "ClassName": "Interceptor_Wheel",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+          }
+      ]
+    }

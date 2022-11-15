@@ -1,0 +1,105 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Pieces detaches BMW Serie 7",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75,
+    "Items": [
+        {
+            "ClassName": "BMW_Doors_Driver_white_rust",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+              "BMW_Doors_Driver_black_rust",
+              "BMW_Doors_Driver_red_rust"
+            ]
+          },
+          {
+            "ClassName": "BMW_Doors_coDriver_white_rust",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+              "BMW_Doors_coDriver_black_rust",
+              "BMW_Doors_coDriver_red_rust"
+            ]
+          },
+          {
+            "ClassName": "BMW_Doors_cargo1_white_rust",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+              "BMW_Doors_cargo1_black_rust",
+              "BMW_Doors_cargo1_red_rust"
+            ]
+          },
+          {
+            "ClassName": "BMW_Doors_cargo2_white_rust",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+              "BMW_Doors_cargo2_black_rust",
+              "BMW_Doors_cargo2_red_rust"
+            ]
+          },
+          {
+            "ClassName": "BMW_Doors_hood_white_rust",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+              "BMW_Doors_hood_black_rust",
+              "BMW_Doors_hood_red_rust"
+            ]
+          },
+          {
+            "ClassName": "BMW_Doors_trunk_white_rust",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+              "BMW_Doors_trunk_black_rust",
+              "BMW_Doors_trunk_red_rust"
+            ]
+          },
+          {
+            "ClassName": "BMW_Wheel",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+          }
+      ]
+    }

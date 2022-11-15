@@ -1,0 +1,51 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Pieces detaches Buggy",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75,
+    "Items": [
+        {
+            "ClassName": "Buggy_Doors_Driver",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+              "Buggy_Doors_Driver_blue",
+              "Buggy_Doors_Driver_red",
+              "Buggy_Doors_Driver_yellow"
+            ]
+          },
+          {
+            "ClassName": "Buggy_Doors_coDriver",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+              "Buggy_Doors_coDriver_blue",
+              "Buggy_Doors_coDriver_red",
+              "Buggy_Doors_coDriver_yellow"
+            ]
+          },
+          {
+            "ClassName": "Buggy_Wheel_offroad",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+          }
+      ]
+    }

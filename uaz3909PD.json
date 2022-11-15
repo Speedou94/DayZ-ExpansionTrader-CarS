@@ -1,0 +1,102 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Pieces detaches UAZ 3909",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75,
+    "Items": [
+        {
+            "ClassName": "UAZ_3909_Doors_Driver",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+              "UAZ_3909_Doors_Driver_beige",
+              "UAZ_3909_Doors_Driver_chaki1"
+            ]
+          },
+          {
+            "ClassName": "UAZ_3909_Doors_coDriver",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+              "UAZ_3909_Doors_coDriver_beige",
+              "UAZ_3909_Doors_coDriver_chaki1"
+            ]
+          },
+          {
+            "ClassName": "UAZ_3909_Doors_cargo1",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+              "UAZ_3909_Doors_cargo1_beige",
+              "UAZ_3909_Doors_cargo1_chaki1"
+            ]
+          },
+          {
+            "ClassName": "UAZ_3909_Doors_cargo2",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+              "UAZ_3909_Doors_cargo2_beige",
+              "UAZ_3909_Doors_cargo2_chaki1"
+            ]
+          },
+          {
+            "ClassName": "UAZ_3909_Doors_hood",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+          },
+          {
+            "ClassName": "UAZ_3909_Doors_cargo3",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+              "UAZ_3909_Doors_cargo3_beige",
+              "UAZ_3909_Doors_cargo3_chaki1"
+            ]
+          },
+          {
+            "ClassName": "UAZ_3909_Wheel",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+          }
+      ]
+    }

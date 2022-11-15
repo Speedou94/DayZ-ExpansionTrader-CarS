@@ -1,0 +1,105 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Pieces detaches Olga 24",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75,
+    "Items": [
+        {
+    "ClassName": "civsedanhood",
+    "MaxPriceThreshold": 800,
+    "MinPriceThreshold": 400,
+    "SellPricePercent": -1,
+    "MaxStockThreshold": 100,
+    "MinStockThreshold": 1,
+    "QuantityPercent": -1,
+    "SpawnAttachments": [],
+    "Variants": [
+      "civsedanhood_wine",
+      "civsedanhood_black"
+    ]
+  },
+  {
+    "ClassName": "civsedantrunk",
+    "MaxPriceThreshold": 900,
+    "MinPriceThreshold": 450,
+    "SellPricePercent": -1,
+    "MaxStockThreshold": 100,
+    "MinStockThreshold": 1,
+    "QuantityPercent": -1,
+    "SpawnAttachments": [],
+    "Variants": [
+      "civsedantrunk_wine",
+      "civsedantrunk_black"
+    ]
+  },
+  {
+    "ClassName": "civsedandoors_driver",
+    "MaxPriceThreshold": 1000,
+    "MinPriceThreshold": 500,
+    "SellPricePercent": -1,
+    "MaxStockThreshold": 100,
+    "MinStockThreshold": 1,
+    "QuantityPercent": -1,
+    "SpawnAttachments": [],
+    "Variants": [
+      "civsedandoors_driver_wine",
+      "civsedandoors_driver_black"
+    ]
+  },
+  {
+    "ClassName": "civsedandoors_codriver",
+    "MaxPriceThreshold": 1000,
+    "MinPriceThreshold": 500,
+    "SellPricePercent": -1,
+    "MaxStockThreshold": 100,
+    "MinStockThreshold": 1,
+    "QuantityPercent": -1,
+    "SpawnAttachments": [],
+    "Variants": [
+      "civsedandoors_codriver_wine",
+      "civsedandoors_codriver_black"
+    ]
+  },
+  {
+    "ClassName": "civsedandoors_backleft",
+    "MaxPriceThreshold": 1000,
+    "MinPriceThreshold": 500,
+    "SellPricePercent": -1,
+    "MaxStockThreshold": 100,
+    "MinStockThreshold": 1,
+    "QuantityPercent": -1,
+    "SpawnAttachments": [],
+    "Variants": [
+      "civsedandoors_backleft_wine",
+      "civsedandoors_backleft_black"
+    ]
+  },
+  {
+    "ClassName": "civsedandoors_backright",
+    "MaxPriceThreshold": 1000,
+    "MinPriceThreshold": 500,
+    "SellPricePercent": -1,
+    "MaxStockThreshold": 100,
+    "MinStockThreshold": 1,
+    "QuantityPercent": -1,
+    "SpawnAttachments": [],
+    "Variants": [
+      "civsedandoors_backright_wine",
+      "civsedandoors_backright_black"
+    ]
+  },
+  {
+    "ClassName": "civsedanwheel",
+    "MaxPriceThreshold": 1200,
+    "MinPriceThreshold": 600,
+    "SellPricePercent": -1,
+    "MaxStockThreshold": 100,
+    "MinStockThreshold": 1,
+    "QuantityPercent": -1,
+    "SpawnAttachments": [],
+    "Variants": []
+        }
+    ]
+}

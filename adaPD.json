@@ -1,0 +1,77 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Pieces detaches Ada4X4",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75,
+    "Items": [
+        {
+            "ClassName": "hatchbackhood",
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 100,
+            "SpawnAttachments": [],
+            "Variants": [
+              "hatchbackhood_blue",
+              "hatchbackhood_white"
+            ]
+          },
+          {
+            "ClassName": "hatchbacktrunk",
+            "MaxPriceThreshold": 760,
+            "MinPriceThreshold": 380,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 100,
+            "SpawnAttachments": [],
+            "Variants": [
+              "hatchbacktrunk_blue",
+              "hatchbacktrunk_white"
+            ]
+          },
+          {
+            "ClassName": "hatchbackdoors_driver",
+            "MaxPriceThreshold": 900,
+            "MinPriceThreshold": 450,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 100,
+            "SpawnAttachments": [],
+            "Variants": [
+              "hatchbackdoors_driver_blue",
+              "hatchbackdoors_driver_white"
+            ]
+          },
+          {
+            "ClassName": "hatchbackdoors_codriver",
+            "MaxPriceThreshold": 900,
+            "MinPriceThreshold": 450,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+              "hatchbackdoors_codriver_blue",
+              "hatchbackdoors_codriver_white"
+            ]
+          },
+          {
+            "ClassName": "hatchbackwheel",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+          }
+      ]
+    }

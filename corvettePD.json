@@ -1,0 +1,81 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Pieces detaches Chevrolet Corvette",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75,
+    "Items": [
+        {
+            "ClassName": "ChevroletCorvette_Doors_Driver",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ChevroletCorvette_Doors_Driver_white",
+                "ChevroletCorvette_Doors_Driver_rust",
+                "ChevroletCorvette_Doors_Driver_kamo"
+            ]
+          },
+        {
+            "ClassName": "ChevroletCorvette_Doors_coDriver",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ChevroletCorvette_Doors_coDriver_white",
+                "ChevroletCorvette_Doors_coDriver_rust",
+                "ChevroletCorvette_Doors_coDriver_kamo"
+            ]
+          },
+          {
+            "ClassName": "ChevroletCorvette_Doors_hood",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ChevroletCorvette_Doors_hood_white",
+                "ChevroletCorvette_Doors_hood_rust",
+                "ChevroletCorvette_Doors_hood_kamo"
+            ]
+          },
+          {
+            "ClassName": "ChevroletCorvette_Doors_trunk",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ChevroletCorvette_Doors_trunk_white",
+                "ChevroletCorvette_Doors_trunk_rust",
+                "ChevroletCorvette_Doors_trunk_kamo"
+            ]
+          },
+          {
+            "ClassName": "ChevroletCorvette_Wheel",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+          }
+      ]
+    }

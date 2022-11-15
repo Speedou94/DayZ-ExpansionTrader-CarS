@@ -1,0 +1,74 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Pieces detaches M3S",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75,
+    "Items": [
+        {
+    "ClassName": "truck_01_hood",
+    "MaxPriceThreshold": 800,
+    "MinPriceThreshold": 400,
+    "SellPricePercent": -1,
+    "MaxStockThreshold": 100,
+    "MinStockThreshold": 1,
+    "QuantityPercent": -1,
+    "SpawnAttachments": [],
+    "Variants": [
+      "truck_01_hood_blue",
+      "truck_01_hood_orange"
+    ]
+  },
+  {
+    "ClassName": "truck_01_door_1_1",
+    "MaxPriceThreshold": 1000,
+    "MinPriceThreshold": 500,
+    "SellPricePercent": -1,
+    "MaxStockThreshold": 100,
+    "MinStockThreshold": 1,
+    "QuantityPercent": -1,
+    "SpawnAttachments": [],
+    "Variants": [
+      "truck_01_door_1_1_blue",
+      "truck_01_door_1_1_orange"
+    ]
+  },
+  {
+    "ClassName": "truck_01_door_2_1",
+    "MaxPriceThreshold": 1000,
+    "MinPriceThreshold": 500,
+    "SellPricePercent": -1,
+    "MaxStockThreshold": 100,
+    "MinStockThreshold": 1,
+    "QuantityPercent": -1,
+    "SpawnAttachments": [],
+    "Variants": [
+      "truck_01_door_2_1_blue",
+      "truck_01_door_2_1_orange"
+    ]
+  },
+  {
+    "ClassName": "truck_01_wheel",
+    "MaxPriceThreshold": 1200,
+    "MinPriceThreshold": 600,
+    "SellPricePercent": -1,
+    "MaxStockThreshold": 100,
+    "MinStockThreshold": 1,
+    "QuantityPercent": -1,
+    "SpawnAttachments": [],
+    "Variants": []
+  },
+  {
+    "ClassName": "truck_01_wheeldouble",
+    "MaxPriceThreshold": 2000,
+    "MinPriceThreshold": 1000,
+    "SellPricePercent": -1,
+    "MaxStockThreshold": 100,
+    "MinStockThreshold": 1,
+    "QuantityPercent": -1,
+    "SpawnAttachments": [],
+    "Variants": []
+        }
+    ]
+}

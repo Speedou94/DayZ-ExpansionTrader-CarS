@@ -1,0 +1,63 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Pieces detaches Camping-Car",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75,
+    "Items": [
+        {
+            "ClassName": "MotorHome_Doors_Driver",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+              "MotorHome_Doors_Driver_white",
+              "MotorHome_Doors_Driver_rust"
+            ]
+          },
+          {
+            "ClassName": "MotorHome_Doors_hood_left",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+              "MotorHome_Doors_hood_left_white",
+              "MotorHome_Doors_hood_left_rust"
+            ]
+          },
+          {
+            "ClassName": "MotorHome_Doors_hood_right",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+              "MotorHome_Doors_hood_right_white",
+              "MotorHome_Doors_hood_right_rust"
+            ]
+          },
+          {
+            "ClassName": "MotorHome_Wheel",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+          }
+      ]
+    }
